@@ -31,9 +31,13 @@ Hello i am Yash Siddhpura. I have developed some projects using C Language.
  Description: The provided C program implements a simple Rock-Paper-Scissors game where the user competes against the computer. This game allows for repeated play until the user decides to exit, providing an engaging way to play Rock-Paper-Scissors against the computer.</p>
 <br>
 
+<<<<<<< HEAD
 <p>
  Project 7: Employee Management System<br>
  Description: The Employee Management System is a console-based application written in C that helps manage employee records efficiently. This system provides a set of functionalities to manage employee data, including inserting new records, displaying existing records, searching for specific records by SSN (Social Security Number), deleting records, updating existing records, and sorting the records. This system is designed to be a simple yet effective tool for managing employee information, suitable for small organizations or as a learning project for those interested in file handling and basic data management in C.
 </p>
 <br>
 <p>Note : Run all the above codes in " Geany ".<br> All the above mentioned projects are executing well without any errors. </p>
+=======
+<p>Note : Run all the above codes in " Geany ".<br> All the above mentioned projects are executing well without any errors. </p>
+>>>>>>> fb6641a36d8c2472acb875e0dffc7da5abc3e281
