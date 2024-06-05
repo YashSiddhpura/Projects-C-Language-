@@ -31,4 +31,4 @@ Hello i am Yash Siddhpura. I have developed some projects using C Language.
  Description: The provided C program implements a simple Rock-Paper-Scissors game where the user competes against the computer. This game allows for repeated play until the user decides to exit, providing an engaging way to play Rock-Paper-Scissors against the computer.</p>
 <br>
 
-<p>Note : Run all the above codes in " Geany ".<br> All the above mentioned projects area executing well without any errors. </p>
+<p>Note : Run all the above codes in " Geany ".<br> All the above mentioned projects are executing well without any errors. </p>
